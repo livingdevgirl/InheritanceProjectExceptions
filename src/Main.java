@@ -10,5 +10,7 @@ public class Main {
         one.showStatus();
 
         two.showStatus();
+
+        two.transport();
     }
 }
